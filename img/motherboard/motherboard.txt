@@ -1,0 +1,155 @@
+ASUS Alaplap, ROG STRIX B360-F GAMING INTEL B360, ATX
+
+Részletek
+PROCESSZOR
+
+CPU foglalat	1151
+Chipset	Intel B360
+Támogatott processzorok	8th Generation Intel® Core™ i7 /Intel® Core™ i5 / Intel® Core™ i3 / Intel® Pentium® / Intel® Celeron®
+Processzor foglalat	1
+MEMÓRIA
+
+Memóriák	DDR4
+Maximális memória kapacitás RAM (MB)	64 GB
+Memória frekvencia (MHz)	2666/2400/2133
+Dualchannel támogatás	Igen
+Memória slot-ok	4
+CSATLAKOZTATHATÓSÁG
+
+Videó slot	PCI Express
+Beépített audió:	ROG SupremeFX S1220A
+Beépített LAN	Intel I219V
+Soros ATA felület	6 x SATA III
+Tápcsatlakozó (tűs)	1 x 8 pin ATX
+1 x 24 tűs ATX
+USB 2.0 portok	4
+USB 3.1 portok	2 x Type A
+1 x Type-C
+Kapcsolat	1 x HDMI
+1 x PS/2
+1 x DVI
+1 x S/PDIF
+1 x DisplayPort
+1 x RJ-45
+SLOTOK
+
+PCI-E x16 Slotok	2
+PCI-E x1 Slotok	4
+Speciális slotok	1 x M.2
+EGYÉB
+
+Formátum	ATX
+
+Asus STRIX Z390-F GAMING alaplap, Socket 1151
+
+Részletek
+PROCESSZOR
+
+CPU foglalat	1151
+Chipset	Z390
+Intel Z390
+Támogatott processzorok	9th / 8th Gen Intel® Core™, Pentium® Gold and Celeron®
+8-9. generációs Intel® Core™ / Pentium® Gold / Celeron® processzorok
+Processzor foglalat	1
+MEMÓRIA
+
+Memóriák	DDR4
+Maximális memória kapacitás RAM (MB)	64 GB
+Memória frekvencia (MHz)	4266(O.C.)/4133(O.C.)/4000(O.C.)/3866(O.C.)/3733(O.C.)/3600(O.C.)/3466(O.C.)/3400(O.C.)/3333(O.C.)/3300(O.C.)/3200(O.C.)/3000(O.C.)/2800(O.C.)/2666/2400/2133
+Dualchannel támogatás	Igen
+Memória slot-ok	4
+CSATLAKOZTATHATÓSÁG
+
+Videó slot	PCI Express 3.0
+6
+Beépített audió:	ROG SupremeFX S1220A
+Beépített LAN	Intel® I219V
+Beépített RAID	0,1,5,10
+Soros ATA felület	6 x SATA III
+SATA átviteli sebesség (MB/s)	600
+Tápcsatlakozó (tűs)	1 x 24 tűs ATX
+1 x 8 pin ATX
+USB 2.0 portok	2
+USB 3.1 portok	3 x USB 3.1 Gen 2
+1 x Type C (Gen2)
+2 x USB 3.1 Gen 1
+3 x USB 3.1 Gen 2 Type-A
+Kapcsolat	1 x DisplayPort
+1 x HDMI
+1 x SPDIF
+5 x Audio Jacks
+1 x RJ-45
+1 x PS/2
+SLOTOK
+
+PCI-E x16 Slotok	3 (x16 / x8 / x4)
+PCI-E x1 Slotok	3
+Speciális slotok	2 x M.2
+EGYÉB
+
+Formátum	ATX
+Méretek (H x sz, cm):	30.5 x 24.4
+
+Gigabyte X570 AORUS ELITE Alaplap, Socket AM4
+
+Részletek
+PROCESSZOR
+
+CPU foglalat	AM4
+Chipset	AMD X570
+Támogatott processzorok	3. Generációs AMD Ryzen™ processzorok/ 2. Generációs AMD Ryzen™ processzorok
+2. Generációs AMD Ryzen™ with Radeon™ Vega Graphics processzorok
+AMD Ryzen™ with Radeon™ Vega Graphics processzorok
+Processzor foglalat	1
+MEMÓRIA
+
+Memóriák	DDR4
+Maximális memória kapacitás RAM (MB)	128 GB
+Memória frekvencia (MHz)	3. Generációs AMD Ryzen™ processzorok: Támogatja a DDR4 4000(O.C.) / 3866(O.C.) / 3800(O.C.) / 3733(O.C.) / 3600(O.C.) / 3466(O.C.) / 3400(O.C.) / 3333(O.C.) / 3300(O.C.) / 3200 / 2933 / 2667 / 2400 / 2133 MHz memóriamodulokat
+2. Generációs AMD Ryzen™ processzorok/AMD Ryzen™ with Radeon™ Vega Graphics processzorok: Támogatja a DDR4 3200(O.C.)/2933/2667/2400/2133 MHz memóriamodulokat
+Dualchannel támogatás	Igen
+ECC támogatás	Igen
+Non-ECC
+Memória slot-ok	4
+CSATLAKOZTATHATÓSÁG
+
+Videó slot	PCI Express x16 4.0
+Beépített audió:	Realtek® ALC1200
+Beépített LAN	10/100/1000
+Beépített RAID	0, 1, 10
+Soros ATA felület	6 x SATA III
+Tápcsatlakozó (tűs)	1 x 8 tűs ATX 12V
+1 x 24 tűs ATX
+USB 2.0 portok	8
+USB 3.1 portok	11 x USB 3.2
+Kapcsolat	1 x HDMI
+5 x Audio Jacks
+1 x RJ-45
+1 x Optical S/PDIF OUT
+SLOTOK
+
+PCI-E x16 Slotok	4
+PCI-E x1 Slotok	2
+Speciális slotok	3 x M.2
+EGYÉB
+
+Támogatott technológiák:	AutoGreen
+Cloud Station
+EasyTune
+Fast Boot
+Game Boost
+ON/OFF Charge
+RGB FUSION
+Smart Backup
+Smart Keyboard
+Smart Survey
+System Information Viewer
+USB Blocker
+BIOS & BIOS memória:	1 x 128 Mbit flash
+AMI UEFI BIOS
+PnP 1.0a, DMI 2.7, WfM 2.0, SM BIOS 2.7, ACPI 5.0
+Formátum	ATX
+Méretek (H x sz, cm):	30.5 x 24.4
+
+
+

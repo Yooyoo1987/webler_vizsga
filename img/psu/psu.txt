@@ -1,0 +1,41 @@
+Thermaltake Smart RGB tápegység, 600W, 80 Plus Bronze
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Táp teljesítmény (W)	600
+Ventilátorok száma	1
+Tápellátás	100 - 240 V
+Speciális tulajdonságok	80 PLUS
+Aktív PFC
+RGB világítás
+Csatlakozók	1 x 20 + 4 ATX pin csatlakozó
+1 x 4 + 4 pin ATX
+Moduláris táp	Nem
+Formátum	ATX
+Sín	+3.3V: 22A
++5V: 17A
++12V: 42A
+Egyéb	Hatékonyság: 82-86 %
+Méretek (W x H x D mm)	150 x 86 x 140
+
+Corsair TX-M Series TX550M félmoduláris tápegység, 550W, 80 Plus Gold, Aktív PFC, ATX12V v2.4
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Táp teljesítmény (W)	550
+Ventilátorok száma	1 x 120 mm
+Tápellátás	100 - 240 V
+Speciális tulajdonságok	80 PLUS GOLD
+Csatlakozók	1 x 20+4 ATX tűs
+2 x 6+2 tűs PCI-E
+4 x Molex
+5 x SATA
+1 x Floppy
+1 x 4+4 Pin ATX/EPS
+Moduláris táp	Igen
+Formátum	ATX
+Méretek (W x H x D mm)	150 x 86 x 140
+Súly (Kg)	1.7
+

@@ -1,0 +1,75 @@
+KINGSTON Memória HYPERX DDR4 16GB 2933MHz CL15 DIMM XMP (Kit of 2) Predator RGB
+
+Részletek
+ÁLTALÁNOS
+
+Memória típus	DDR4
+Kapacitás	16 GB
+Frekvencia (MHz)	2933
+Modul	Dual channel
+EGYÉB
+
+Késleltetés	CL15
+Hűtő	Igen
+Feszültség	1.35 V
+
+Dual Channel Corsair 16GB (2X8) memória memória szett, DDR4, CL15, 3000MHz, Vengeance LPX Blue, 1.35V
+
+Részletek
+ÁLTALÁNOS
+
+Memória típus	DDR4
+Kapacitás	16 GB
+Frekvencia (MHz)	3000
+Modul	Dual channel
+EGYÉB
+
+Késleltetés	CL15
+Hűtő	Igen
+Feszültség	1.35 V
+
+G.Skill RipjawsV DDR4 16GB (2x8GB) 3200MHz CL15 1.35V XMP 2.0 memória
+
+Részletek
+ÁLTALÁNOS
+
+Memória típus	DIMM
+Szabvány	DDR4
+Kapacitás	16 GB
+Frekvencia (MHz)	3200
+Modul	Dual-channel
+EGYÉB
+
+Késleltetés	CL 15
+Hűtő	Igen
+Feszültség	1.35 V
+
+G.Skill Trident Z Memória, DDR4 16GB (2x8GB), 3400MHz, CL16, 1.35V, XMP 2.0
+
+Részletek
+ÁLTALÁNOS
+
+Memória típus	DDR4
+Kapacitás	16 GB
+Frekvencia (MHz)	3400
+Modul	Dual channel
+EGYÉB
+
+Késleltetés	CL16
+Feszültség	1.35 V
+
+Corsair Vengeance RGB Pro LED 16GB 3200MHz DDR4 CL16 fekete memória
+
+Részletek
+ÁLTALÁNOS
+
+Memória típus	DDR4
+Szabvány	DIMM
+Kapacitás	16 GB
+Frekvencia (MHz)	3200
+Modul	Dual channel
+EGYÉB
+
+Késleltetés	CL 16
+Hűtő	Igen
+Feszültség	1.35 V

@@ -1,0 +1,405 @@
+gigabyte 5500 xt 8gb
+
+Részletek
+ÁLTALÁNOS
+
+Slot	PCI Express 4.0
+Videó processzor	AMD Radeon RX 5500 XT
+Kártya típus	Gaming
+Maximális felbontás	7680 x 4320
+PROCESSZOR
+
+Gyártó	AMD
+Széria	AMD Radeon RX 5000
+Gyártási technológia (nanométer)	7
+Render vezetékek (db)	1408
+Processzor frekvencia (MHz)	Boost 1845
+MEMÓRIA
+
+Memória kapacitás (MB)	8 GB
+Memória típus	GDDR6
+BUS memória	128
+Memória frekvencia (MHz)	14000
+MÁS TULAJDONSÁGOK
+
+Sávszélesség (GB/s)	224
+Direct X támogatás (verzió)	12
+OpenGL támogatás (verzió)	4.6
+CSATLAKOZÓK
+
+DisplayPort csatlakozó	3
+HDMI csatlakozó	1
+Tápcsatlakozó	1 x 8 pin
+
+MSI GeForce GTX 1660 VENTUS XS OC Videokártya, 6GB GDDR5, 192-bit
+
+Részletek
+ÁLTALÁNOS
+
+Slot	PCI Express 3.0
+Videó processzor	GeForce GTX 1660
+Kártya típus	Gaming
+Maximális felbontás	7680 x 4320
+PROCESSZOR
+
+Gyártó	nVIDIA
+Széria	GeForce GTX 1600
+Render vezetékek (db)	1408
+Processzor frekvencia (MHz)	Boost 1830
+MEMÓRIA
+
+Memória kapacitás (MB)	6 GB
+Memória típus	GDDR5
+BUS memória	192
+MÁS TULAJDONSÁGOK
+
+Direct X támogatás (verzió)	12 API
+OpenGL támogatás (verzió)	4.5
+Technológiák	nVIDIA Adaptive V-Sync
+nVidia G-Sync
+nVidia PhysX
+nVIDIA CUDA
+nVidia Ansel
+nVidia FastSync
+nVidia Simultaneous Multi-Projection
+nVidia GameStream
+nVidia 3D Vision
+nVidia Surround
+CSATLAKOZÓK
+
+DisplayPort csatlakozó	3
+HDMI csatlakozó	1
+Tápcsatlakozó	1 x 8-pin
+HŰTŐRENDSZER
+
+Hűtés típus (aktív / passzív)	Aktív
+Cooler	Igen
+Hűtő	Igen
+
+MSI GeForce GTX 1660 GAMING X videókártya, 6GB GDDR5, 192-bit
+
+Részletek
+ÁLTALÁNOS
+
+Slot	PCI Express x16 3.0
+Videó processzor	GeForce GTX 1660
+Kártya típus	Gaming
+Maximális felbontás	7680 x 4320
+PROCESSZOR
+
+Gyártó	nVIDIA
+Széria	GeForce GTX 1600
+Render vezetékek (db)	1408
+Processzor frekvencia (MHz)	Boost 1860
+MEMÓRIA
+
+Memória kapacitás (MB)	6 GB
+Memória típus	GDDR6
+BUS memória	192
+MÁS TULAJDONSÁGOK
+
+Direct X támogatás (verzió)	12 API
+OpenGL támogatás (verzió)	4.5
+Technológiák	nVIDIA Adaptive V-Sync
+nVidia G-Sync
+nVidia PhysX
+nVIDIA CUDA
+nVidia Ansel
+nVidia FastSync
+nVidia Simultaneous Multi-Projection
+nVidia GameStream
+nVidia 3D Vision
+nVidia Surround
+CSATLAKOZÓK
+
+DisplayPort csatlakozó	3
+HDMI csatlakozó	1
+Tápcsatlakozó	1 x 8-pin
+HŰTŐRENDSZER
+
+Hűtés típus (aktív / passzív)	Aktív
+Cooler	Igen
+Hűtő	Igen
+
+MSI GeForce GTX 1660 SUPER™ GAMING X
+
+Részletek
+ÁLTALÁNOS
+
+Slot	PCI Express 3.0
+Videó processzor	GeForce GTX 1660Ti
+Kártya típus	Gaming
+Maximális felbontás	7680 x 4320
+PROCESSZOR
+
+Gyártó	nVIDIA
+Széria	GeForce GTX 1600
+Processzor frekvencia (MHz)	Boost: 1830 MHz
+MEMÓRIA
+
+Memória kapacitás (MB)	4 GB
+6 GB
+Memória típus	GDDR6
+BUS memória	192
+MÁS TULAJDONSÁGOK
+
+Direct X támogatás (verzió)	12 API
+OpenGL támogatás (verzió)	4.5
+Technológiák	nVidia G-Sync
+Adaptive V-Sync
+VR Ready
+CSATLAKOZÓK
+
+DisplayPort csatlakozó	3
+HDMI csatlakozó	1
+Tápcsatlakozó	1 x 8-pin
+HŰTŐRENDSZER
+
+Hűtés típus (aktív / passzív)	Aktív
+Cooler	Igen
+Hűtő	DirectCU copper heatpipes
+
+MSI Radeon RX 5700 GAMING X
+
+Részletek
+ÁLTALÁNOS
+
+Slot	PCI Express 4.0
+Videó processzor	Radeon RX 5700
+Kártya típus	Gaming
+Maximális felbontás	7680 x 4320
+PROCESSZOR
+
+Gyártó	AMD
+Széria	AMD Radeon RX 5000
+Render vezetékek (db)	2304
+Processzor frekvencia (MHz)	Boost: 1750, Game: 1725, Base: 1610
+MEMÓRIA
+
+Memória kapacitás (MB)	8 GB
+Memória típus	GDDR6
+BUS memória	256
+MÁS TULAJDONSÁGOK
+
+Direct X támogatás (verzió)	12
+OpenGL támogatás (verzió)	4.6
+Technológiák	AMD FreeSync
+VR Ready
+Radeon Anti-Lag
+AMD FidelityFx
+Radeon Image Sharpening
+FreeSync™ 2 HDR
+Multi-GPU Technology
+CSATLAKOZÓK
+
+DisplayPort csatlakozó	3
+HDMI csatlakozó	1
+Tápcsatlakozó	2 x 8 pin
+EGYÉB
+
+Egyéb	HDCP 2.2
+
+Sapphire Radeon RX 5700 XT PULSE
+
+Részletek
+ÁLTALÁNOS
+
+Slot	PCI Express 4.0
+Videó processzor	AMD Radeon RX 5700 XT
+Kártya típus	Gaming
+Maximális felbontás	5120 x 2880
+PROCESSZOR
+
+Gyártó	AMD
+Széria	AMD Radeon RX 5000
+Gyártási technológia (nanométer)	7
+Render vezetékek (db)	2560
+Processzor frekvencia (MHz)	Boost: 1925
+Game: 1815
+Base: 1670
+MEMÓRIA
+
+Memória kapacitás (MB)	8 GB
+Memória típus	GDDR6
+BUS memória	256
+Memória sávszélessége (bit)	256
+MÁS TULAJDONSÁGOK
+
+Direct X támogatás (verzió)	DirectX 12
+OpenGL támogatás (verzió)	4.5
+Technológiák	Dual-X Cooling
+Dual BIOS
+Radeon™ Software
+RDNA Architecture
+2nd Gen 7nm GPU
+Power Efficiency
+Video Streaming up to 8K
+Radeon Anti-Lag
+AMD FidelityFx
+Async Compute
+CSATLAKOZÓK
+
+DisplayPort csatlakozó	3 x Display Port
+HDMI csatlakozó	1 x HDMI
+HŰTŐRENDSZER
+
+Hűtés típus (aktív / passzív)	Ventilátor
+Cooler	Igen
+Hűtő	Nem
+
+Asus ROG Strix GeForce RTX™ 2060 OC edition
+
+Részletek
+ÁLTALÁNOS
+
+Slot	PCI Express 3.0 x16
+Videó processzor	GeForce RTX 2060
+Kártya típus	Gaming
+Maximális felbontás	7680 x 4320
+RAMDAC (MHz)	400
+PROCESSZOR
+
+Gyártó	nVIDIA
+Széria	NVIDIA GeForce RTX 2000
+Gyártási technológia (nanométer)	12
+Pixel Shader verzió	5.0
+Vertex Shader verzió	5.0
+Tranzisztorok száma (millió)	10800
+Pixel kitöltési sebesség	90240 MPixels/sec
+Raszter operátorok	48
+Textúra kitöltési sebesség	203040 MTexels/sec
+Textúra egység	120
+Render vezetékek (db)	1920
+Processzor frekvencia (MHz)	Boost 1830
+MEMÓRIA
+
+Memória kapacitás (MB)	6 GB
+Memória típus	GDDR6
+BUS memória	192
+Memória frekvencia (MHz)	14000
+MÁS TULAJDONSÁGOK
+
+Sávszélesség (GB/s)	336
+Direct X támogatás (verzió)	12
+OpenGL támogatás (verzió)	4.5
+Technológiák	nVIDIA 3D Vision
+nVIDIA Adaptive V-Sync
+nVidia G-Sync
+nVidia PhysX
+nVIDIA CUDA
+NVIDIA GameStream
+nVidia FastSync
+NVIDIA Ansel
+nVidia Surround
+CSATLAKOZÓK
+
+DisplayPort csatlakozó	2
+HDMI csatlakozó	2
+Tápcsatlakozó	1 x 8-pin
+1 x 6 pin
+HŰTŐRENDSZER
+
+Hűtés típus (aktív / passzív)	Aktív
+Cooler	Igen
+Hűtő	Igen
+
+MSI Geforce RTX 2060 GAMING Z 6G
+
+Részletek
+ÁLTALÁNOS
+
+Slot	PCI Express x16 3.0
+Videó processzor	GeForce RTX 2060
+Kártya típus	Gaming
+Maximális felbontás	7680 x 4320
+SLI támogatás	Nem
+RAMDAC (MHz)	400
+PROCESSZOR
+
+Gyártó	nVIDIA
+Széria	RTX 2000
+Gyártási technológia (nanométer)	12
+Pixel Shader verzió	5.0
+Vertex Shader verzió	5.0
+Tranzisztorok száma (millió)	10800
+Pixel kitöltési sebesség	90240 MPixels/sec
+Raszter operátorok	48
+Textúra kitöltési sebesség	203040 MTexels/sec
+Textúra egység	120
+MEMÓRIA
+
+Memória kapacitás (MB)	6 GB
+Memória típus	GDDR6
+BUS memória	192
+MÁS TULAJDONSÁGOK
+
+Sávszélesség (GB/s)	336
+Direct X támogatás (verzió)	12.1
+OpenGL támogatás (verzió)	4.5
+Technológiák	nVIDIA 3D Vision
+nVIDIA Adaptive V-Sync
+nVidia G-Sync
+nVidia PhysX
+NVIDIA GameStream
+nVidia Ansel
+nVidia FastSync
+nVidia Simultaneous Multi-Projection
+nVidia Surround
+CSATLAKOZÓK
+
+DisplayPort csatlakozó	3
+HDMI csatlakozó	1
+Tápcsatlakozó	1 x 8-pin
+HŰTŐRENDSZER
+
+Hűtés típus (aktív / passzív)	Aktív
+Cooler	Igen
+Hűtő	Igen
+
+Sapphire Radeon™ RX 5700 XT NITRO+
+
+Részletek
+ÁLTALÁNOS
+
+Slot	PCI Express 4.0
+Videó processzor	Radeon RX 5700
+Kártya típus	Gaming
+Maximális felbontás	HDMI™: 4096×2160@60Hz
+DisplayPort1.4: 5120×2880@60Hz
+PROCESSZOR
+
+Gyártó	AMD
+Széria	Radeon RX 5700
+Gyártási technológia (nanométer)	7nm
+Render vezetékek (db)	2560
+Processzor frekvencia (MHz)	Boost: 2010MHz; Game: 1905 MHz; Base: 1770 MHz
+MEMÓRIA
+
+Memória kapacitás (MB)	8 GB
+Memória típus	GDDR6
+BUS memória	256 bit
+MÁS TULAJDONSÁGOK
+
+Direct X támogatás (verzió)	12
+OpenGL támogatás (verzió)	4.6
+Technológiák	TriXX
+Radeon VR ready Premium
+NITRO Glow RGB LED lights
+VR Friendly
+Vulkan™
+Dual BIOS
+RDNA Architecture
+Radeon Boost
+Radeon Anti-Lag
+AMD FidelityFx
+Async Compute
+Radeon Rays Audio + True Audio Next
+Radeon Image Sharpening
+Radeon FreeSync 2 HDR
+CSATLAKOZÓK
+
+DisplayPort csatlakozó	2 x Display Port
+HDMI csatlakozó	2 x HDMI
+Tápcsatlakozó	2 x 8 pin
+
+

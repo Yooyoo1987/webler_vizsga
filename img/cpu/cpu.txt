@@ -1,0 +1,62 @@
+AMD Ryzen™ 5 3600 Processzor, 35MB, 4.2 GHz, Wraith Stealth cooler
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Cache memória	35 MB
+CPU foglalat	AM4
+Processzor frekvencia (MHz)	3600
+Turbo Boost akár	4200 MHz
+Magok száma	6
+Szálak száma	12
+Cache L3 (KB)	32 MB
+Cooler	Igen
+Hőenergia (W)	65
+Egyéb	Threads: 12
+
+Intel® Core i5-9400 processzor, 2.9 GHz, 9MB, Socket 1151
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Cache memória	9 MB
+CPU foglalat	1151
+Processzor frekvencia (MHz)	2900
+Turbo Boost akár	4100 MHz
+Üzemmód (bit)	64
+Magok száma	6
+Szálak száma	6
+Gyártási technológia (nanométer)	14
+Hőenergia (W)	65
+Egyéb	Intel UHD Graphics 630
+
+AMD Ryzen™ 7 3700X Processzor, 36MB, 4.4 GHz, Wraith Prism cooler
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Cache memória	36 MB
+CPU foglalat	AM4
+Processzor frekvencia (MHz)	3600
+Turbo Boost akár	4400 MHz
+Magok száma	8
+Szálak száma	16
+Cache L3 (KB)	32 MB
+Cooler	Igen
+Hőenergia (W)	65
+Egyéb	Threads: 16
+
+Intel® Core™ i7-9700KF Processzor, 3.6 GHz, 12MB, Integrált GPU nélkül, 1151 Socket
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Cache memória	12 MB
+CPU foglalat	1151
+Processzor frekvencia (MHz)	3600
+Turbo Boost akár	4900 MHz
+Üzemmód (bit)	64
+Magok száma	8
+Szálak száma	8
+Gyártási technológia (nanométer)	14
+Hőenergia (W)	95

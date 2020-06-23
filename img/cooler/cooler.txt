@@ -1,0 +1,22 @@
+Thermaltake Water 3.0 Riing RGB 360 Univerzális CPU vízhűtés
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Aljzat típus	Intel Socket 1150|Intel Socket 1151|Intel Socket 1155|Intel Socket 1156|Intel Socket 1366|Intel Socket 2011|Intel Socket 2011-3|AMD Socket AM2|AMD Socket AM2 +|AMD Socket AM3|AMD Socket AM3 +|AMD Socket FM1|AMD Socket FM2
+Hűtés típus	Folyadék
+Fordulatszám (f/p)	1500 rpm
+Zajszint (dB)	26.1
+
+Cooler Master MasterLiquid ML360R RGB processzor vízhűtés
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Aljzat típus	Socket FM2+, LGA2066, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA-2011-3, LGA1150, LGA775, Socket AM2, Socket AM2+, Socket AM3, Socket AM3+, Socket AM4, Socket FM1, Socket FM2, 3 pin, 4 pin
+Hűtés típus	Folyadék
+Fordulatszám (f/p)	650 - 2000 RPM
+Légáramlat (CFM)	66.7
+Zajszint (dB)	30
+Súly	2.52 kg
+Méretek (W x D x H mm)	394. x 27.2 x 119

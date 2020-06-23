@@ -1,0 +1,39 @@
+Adata Ultimate SU650 SSD meghajtó, Blister, 480GB, SATA III
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Méret	2.5 hüvelyk
+Kapacitás (GB)	480 GB
+Interfész	SATA III
+Olvasás átviteli sebesség (MB/s)	520
+Írási sebesség (MB/s)	450
+Méretek (W x D x H mm)	100.45 x 69.85 x 7
+Memória típus	TLC
+
+KINGSTON SSD 2.5" SATA3 960GB A400
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Méret	2.5 hüvelyk
+Kapacitás (GB)	960 GB
+Interfész	SATA III
+Olvasás átviteli sebesség (MB/s)	500
+Írási sebesség (MB/s)	450
+Méretek (W x D x H mm)	69.9 x 100 x 7
+Súly (g)	41
+Memória típus	TLC
+
+KINGSTON SSD M.2 2280 NVMe 500GB A2000
+
+Részletek
+ÁLTALÁNOS TULAJDONSÁGOK
+
+Méret	M.2
+Kapacitás (GB)	500 GB
+Interfész	PCIe
+Olvasás átviteli sebesség (MB/s)	2200
+Írási sebesség (MB/s)	2000
+Méretek (W x D x H mm)	80 x 9.14 x 129.54
+Súly (g)	6.7
